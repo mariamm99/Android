@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">proyecto Final</string>
+    <string name="title_activity_sobremi">sobremi</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mi_github">mi github</string>
+    <string name="texto_github">Te presento mi red social github:</string>
+    <string name="mensaje_proyecto">mensaje proyecto</string>
+    <string name="quieres_conocer_mi_lugar_favorito">¿quieres conocer mi lugar favorito?</string>
+    <string name="localizacion">localización</string>
+    <string name="enviar_texto">enviar texto</string>
+    <string name="examen_o_proyecto_realizar_un_proyecto_que_abarque_todo_lo_dado_durante_el_curso_puede_beneficiar_al_alumnado_ayuda_a_repetir_lo_aprendido_modificando_ciertos_comportamientos">Examen o proyecto? Realizar un proyecto que abarque todo lo dado durante el curso puede beneficiar al alumnado. Ayuda a repetir lo aprendido modificando ciertos comportamientos.</string>
+
+
+    <string name="titulo">Lista de la compra</string>
+    <string name="button">añadir</string>
+    <string name="objeto">objeto a comprar</string>
+    <string name="arroz">arroz</string>
+    <string name="lechuga">lechuga</string>
+    <string name="leche">leche</string>
+    <string name="huevos">huevos</string>
+    <string name="galletas">galletas</string>
+    <string name="pan">pan</string>
+    <string name="aceite">aceite</string>
+    <string name="gulas">gulas</string>
+    <string name="yogurt">yogurt</string>
+    <string name="sal">sal</string>
+    <string name="fideos">fideos</string>
+    <string name="azucar">azúcar</string>
+    <string name="fruta">fruta</string>
+    <string name="tomate">tomate</string>
+    <string name="colacao">colacao</string>
+    <string name="pasta">pasta</string>
+    <string name="supermercados">supermercados</string>
+    <string name="supermercado">supermercado</string>
+    <string name="lista_de_compra">lista de compra</string>
+    <string name="operar">operar</string>
+    <string name="otros_proyectos">otros proyectos</string>
+    <string name="numero1">número1</string>
+    <string name="numero2">número2</string>
+    <string name="sumar">sumar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="mar_a_moreno_mu_oz">María Moreno Muñoz</string>
+    <string name="todo">TODO</string>
+    <string name="bienvenido">bienvenido</string>
+</resources>
